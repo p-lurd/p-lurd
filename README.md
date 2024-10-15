@@ -9,10 +9,11 @@
 Here are some ideas to get you started:
 -->
 <!-- - 🔭 I’m currently working on variety of projects...-->
-- 🔭 I graduated from AltSchool Africa
+- 🔭 BGS @ AltSchool Africa
 - 🌱 I’m always learning and making myself applicable in Software Engineering
 - 👯 I’m looking to collaborate on opensource projects, hackathons and anything that involves building actively
-- 🤔 I’m looking for help with landing an entry level role/intership
+- 🤔 I’m looking for help with landing a fullstack Javascript role
+- 👍🏽 Proficient in JS, NestJs and REACT.
 - 💬 Ask me about anything, I read a lot.
 -  ⚡ Fun fact: I am a code writing medic
 - 📫 How to reach me:
