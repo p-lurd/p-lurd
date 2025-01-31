@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 <!-- - 🔭 I’m currently working on variety of projects...-->
 - ❤️ I love what I do
 - 🔭 Did something @ AltSchool Africa - BGS
-- 🌱 I am constantly honing my abilities to remain adaptive and valuable in any capacity.
-- 👯 I am looking to collaborate on opensource projects, hackathons and anything that involves building actively
+- 🌱 Constantly honing my abilities to remain adaptive and valuable in any capacity.
+- 👯 Looking to collaborate on opensource projects, hackathons and anything that involves building actively
 - 🤔 I am looking to land a Js/Ts role
 - 👍🏽 Proficient in JS, Ts, NestJs, REACT, and associated technologies
 -  ⚡ Fun fact: I am an engineer, I fix humans, softwares and machines
