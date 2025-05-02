@@ -1,4 +1,6 @@
-![Header](./utils/header-image.png)
+<!-- ![Header](./utils/header-image.png) -->
+![github-header-image](https://github.com/user-attachments/assets/33f210c4-32a9-478b-9a8f-379f3a86ecee)
+
 ### Hi there, My name is Jedidiah Toluwanimi 👋
 <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /><img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 
