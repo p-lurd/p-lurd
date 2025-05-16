@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 <!-- - 🔭 I’m currently working on variety of projects...-->
 - ❤️ I love what I do
-- 🔭 Did something @ AltSchool Africa - BGS
+- 🔭 Did something [@ AltSchool Africa](https://altschoolafrica.com/) - BGS
 - 🌱 Constantly honing my abilities to remain adaptive and valuable in any capacity.
 - 👯 Looking to collaborate on opensource projects, hackathons and anything that involves building actively
 - 🤔 I am looking to land a Js/Ts role
